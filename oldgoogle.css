@@ -1,0 +1,54 @@
+.topbar{
+    margin: 10px 60px 5px 60px;
+    background-color:rgb(236, 232, 226);
+    text-align: center;
+}
+
+.ust{
+    margin-top: 200px;
+}
+.genis{
+    width: 300px;
+}
+
+.content{
+        
+        height: 200px;
+        font-family: Arial, Helvetica, sans-serif;
+        
+        margin:0px 60px 5px 60px;
+}
+
+
+
+.one{
+    width: 36%;
+    float: left;
+    text-align: center;
+    padding-top: 25px;
+    background-color:#7EE5DA ;
+   height: 200px;
+margin-right: 9px;
+}
+
+.two{
+    width: 26%;
+    float: left;
+    text-align: center;
+    padding-top: 25px;
+    background-color: #70CCC2;
+    height: 200px;
+    margin-right: 9px;
+
+    
+}
+
+.three{
+    width: 36%;
+    float: left;
+    text-align: center;
+    padding-top: 25px;
+    background-color: #62B3AA;
+    height: 200px;
+
+}
